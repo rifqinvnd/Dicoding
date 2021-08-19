@@ -46,7 +46,7 @@
     - BBC News Categories Classification [[📁](https://github.com/rifqinvnd/Dicoding/blob/main/Project/BBCtextcategories-NLP.ipynb)]
 
         <a href="#">
-            <img src="README/BBC.png">
+            <img src="README/bbc.png">
         </a>
 
     - China Temperature Time Series Forecating [[📁](https://github.com/rifqinvnd/Dicoding/blob/main/Project/ChinaTemperature-TimeSeriesForecasting.ipynb)]
